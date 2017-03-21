@@ -7,6 +7,6 @@ $ npm install
 
 #### Run
 ```
-$ gulp serve
+$ lite-server
 
 ```
