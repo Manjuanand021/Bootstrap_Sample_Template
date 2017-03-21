@@ -1,1 +1,1 @@
-# Bootstrap_Sample_Template
+# Bootstrap Sample Template for future reference
