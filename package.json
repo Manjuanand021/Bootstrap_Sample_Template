@@ -1,0 +1,22 @@
+{
+  "name": "sapmple_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manjuanand021/Bootstrap_Sample_Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manjuanand021/Bootstrap_Sample_Template/issues"
+  },
+  "homepage": "https://github.com/Manjuanand021/Bootstrap_Sample_Template#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
