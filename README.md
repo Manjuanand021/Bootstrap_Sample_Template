@@ -1,10 +1,12 @@
 # Bootstrap Sample Template for future reference
-####Setup
+
+#### Setup
 ```
-npm i
+$ npm install
 ```
 
-####Run
+#### Run
 ```
-lite-server
+$ gulp serve
+
 ```
